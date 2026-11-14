@@ -1,0 +1,47 @@
+{
+    "usuarios": [
+        {
+            "identificacion": "0000",
+            "nombres": "Admin",
+            "apellidos": "Administrador",
+            "telefono": "555 000111",
+            "correo": "admin@acmeclinic.com",
+            "direccion": "Cl 185 # 26 - 85",
+            "contrasena": "Admin123",
+            "rol": "Administrativo"
+        },
+        {
+            "identificacion": "1102637391",
+            "nombres": "jesus dario",
+            "apellidos": "urrea mantilla",
+            "telefono": "3052810638",
+            "correo": "jjmantilla@gmail.com",
+            "direccion": "111111",
+            "rol": "Medico",
+            "contrasena": "12345"
+        },
+        {
+            "identificacion": "11111111111",
+            "nombres": "day",
+            "apellidos": "ner",
+            "telefono": "1111",
+            "correo": "dayner@gmail.com",
+            "direccion": "12343",
+            "rol": "Medico",
+            "contrasena": "123"
+        }
+    ],
+    "pacientes": [
+        {
+            "identificacion": "1111111",
+            "nombres": "deyner",
+            "apellidos": "olarte",
+            "telefono": "2222222",
+            "correo": "deyner@123",
+            "direccion": "11111",
+            "genero": "masculino",
+            "estado_civil": "soltero"
+        }
+    ],
+    "diagnosticos": []
+}
